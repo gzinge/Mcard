@@ -4,7 +4,7 @@ Step 1 :
 	- gradlew clean build
 
 Note : 
-we can see the test data in resource folder.
+we can see the test data in /src/main/resources/ & /src/test/resources/ folder.
 1) For Day capping transaction : day.txt
 2) For Weekly capping transaction : weekly.txt
 3) For Both capping transaction : data.txt
