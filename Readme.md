@@ -1,7 +1,7 @@
 
 Step 1 : 
-1) Run Gradle
-	gradlew clean build
+1) Run Gradle :
+	- gradlew clean build
 
 Note : 
 we can see the test data in resource folder.
