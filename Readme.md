@@ -11,7 +11,9 @@ we can see the test data in /src/main/resources/ & /src/test/resources/ folder.
 
 Core classes :
 FareStrategy.java is utility class to calculate Fare 
+
 DailyCapPaymentService.java : this service calculate the fare of day capping
+
 WeeklyCapPaymentService.java : this service calculate the fare of weekly capping
 
 Main Class:
